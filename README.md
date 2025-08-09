@@ -25,5 +25,5 @@ It allows drivers to control calls, navigation, and apps using simple voice comm
 ##  Installation
 1. Download this project:
    ```bash
-   git clone https://github.com/Asmitha cub/Smart-Driver-Assistance.git
+   git clone https://github.com/Asmitha-cub/Smart-Driver-Assistance.git
    cd Smart-Driver-Assistance
